@@ -3,3 +3,4 @@ qsharp
 qiskit
 azure-quantum[qiskit]
 azure-quantum[cirq]
+tweedledum
