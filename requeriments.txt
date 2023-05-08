@@ -4,3 +4,5 @@ qiskit
 azure-quantum[qiskit]
 azure-quantum[cirq]
 tweedledum
+azure-quantum
+dotenv
